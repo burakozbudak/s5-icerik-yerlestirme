@@ -1,81 +1,81 @@
 {
   "stats": {
-    "expected": 12,
-    "unexpected": 2,
+    "expected": 11,
+    "unexpected": 3,
     "skipped": 0,
     "flaky": 0,
-    "duration": 2718
+    "duration": 3146
   },
   "tests": [
     {
       "title": "Logo görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 443
+      "duration": 446
     },
     {
       "title": "Nav linkleri doğru text ve 'italic' class'ına sahip olmalı",
       "status": "passed",
-      "duration": 156
+      "duration": 137
     },
     {
       "title": "CTA başlığı doğru text içermeli",
       "status": "passed",
-      "duration": 113
+      "duration": 119
     },
     {
       "title": "CTA butonu doğru text içermeli",
       "status": "passed",
-      "duration": 111
+      "duration": 101
     },
     {
       "title": "CTA görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 112
+      "duration": 130
     },
     {
       "title": "Middle img doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 105
+      "duration": 123
     },
     {
       "title": "Top content başlıkları doğru olmalı",
       "status": "passed",
-      "duration": 123
+      "duration": 109
     },
     {
       "title": "Top content paragrafları doğru olmalı",
-      "status": "passed",
-      "duration": 114
-    },
-    {
-      "title": "Bottom content başlıkları doğru olmalı",
-      "status": "failed",
-      "duration": 201
-    },
-    {
-      "title": "Bottom content paragrafları doğru olmalı",
-      "status": "passed",
-      "duration": 443
-    },
-    {
-      "title": "Contact başlığı doğru olmalı",
-      "status": "passed",
-      "duration": 124
-    },
-    {
-      "title": "Contact bilgileri doğru olmalı",
       "status": "failed",
       "duration": 219
     },
     {
+      "title": "Bottom content başlıkları doğru olmalı",
+      "status": "passed",
+      "duration": 442
+    },
+    {
+      "title": "Bottom content paragrafları doğru olmalı",
+      "status": "failed",
+      "duration": 230
+    },
+    {
+      "title": "Contact başlığı doğru olmalı",
+      "status": "passed",
+      "duration": 436
+    },
+    {
+      "title": "Contact bilgileri doğru olmalı",
+      "status": "failed",
+      "duration": 217
+    },
+    {
       "title": "Footer linki doğru text'e ve 'bold' class'ına sahip olmalı",
       "status": "passed",
-      "duration": 454
+      "duration": 436
     },
     {
       "title": "index.html içeriği değişmemiş olmalı",
       "status": "passed",
-      "duration": 1
+      "duration": 2
     }
   ]
 }
